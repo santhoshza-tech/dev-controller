@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "santhoshza-tech-dev-controller"
+description: "CloudBees CI configuration bundle for the santhoshza-tech dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/santhoshza-tech/dev-controller"
+parent: "base"
